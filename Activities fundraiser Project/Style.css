@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    clear: both;
+}
+
+h3,
+h2 {
+    text-align: center;
+    font-weight: 700;
+}
+
+body {
+
+    background-size: contain;
+    padding: 2em;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#div1,
+#div2,
+#div3 {
+    text-align: center;
+}
+
+/*underline all H1 headers please*/
